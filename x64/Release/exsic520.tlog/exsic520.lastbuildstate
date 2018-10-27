@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Release|x64|D:\opencv实践\exsic520  DNN模块系列：基于EAST文本检测+Tesseract4.0 中文识别\|

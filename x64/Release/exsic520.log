@@ -1,0 +1,27 @@
+﻿生成启动时间为 2018/10/27 19:09:02。
+     1>项目“D:\opencv实践\exsic520  DNN模块系列：基于EAST文本检测+Tesseract4.0 中文识别\exsic520\exsic520.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\VC\bin\x86_amd64\CL.exe /c /I"D:\opencv343 （2017）\include" /I"D:\opencv343 （2017）\include\opencv" /I"D:\opencv343 （2017）\include\opencv2" /I"D:\opencv实践\tesseract_4.0\include" /I"D:\opencv实践\tesseract_4.0\include\leptonica" /I"D:\opencv实践\tesseract_4.0\include\tesseract" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _WINDOWS /D _MBCS /Gm- /EHsc /MD /GS /Gy /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(30): warning C4305: “初始化”: 从“double”到“float”截断
+     1>main.cpp(132): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(133): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(134): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(134): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+     1>main.cpp(157): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(260): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+     1>main.cpp(264): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+       Link:
+         D:\Program Files (x86)\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\opencv实践\exsic520  DNN模块系列：基于EAST文本检测+Tesseract4.0 中文识别\x64\Release\exsic520.exe" /NOLOGO /LIBPATH:"D:\opencv343 （2017）\lib\Release" /LIBPATH:"D:\opencv实践\tesseract_4.0\lib\x64\release" opencv_aruco343.lib opencv_bgsegm343.lib opencv_bioinspired343.lib opencv_calib3d343.lib opencv_ccalib343.lib opencv_core343.lib opencv_datasets343.lib opencv_dnn343.lib opencv_dnn_objdetect343.lib opencv_dpm343.lib opencv_face343.lib opencv_features2d343.lib opencv_flann343.lib opencv_fuzzy343.lib opencv_hdf343.lib opencv_hfs343.lib opencv_highgui343.lib opencv_imgcodecs343.lib opencv_imgproc343.lib opencv_img_hash343.lib opencv_line_descriptor343.lib opencv_ml343.lib opencv_objdetect343.lib opencv_optflow343.lib opencv_phase_unwrapping343.lib opencv_photo343.lib opencv_plot343.lib opencv_reg343.lib opencv_rgbd343.lib opencv_saliency343.lib opencv_shape343.lib opencv_stereo343.lib opencv_stitching343.lib opencv_structured_light343.lib opencv_superres343.lib opencv_surface_matching343.lib opencv_text343.lib opencv_tracking343.lib opencv_video343.lib opencv_videoio343.lib opencv_videostab343.lib opencv_viz343.lib opencv_xfeatures2d343.lib opencv_ximgproc343.lib opencv_xobjdetect343.lib opencv_xphoto343.lib "libtesseract-4.lib" "pvt.cppan.demo.danbloomberg.leptonica-1.74.1.lib" "pvt.cppan.demo.gif-5.1.4.lib" "pvt.cppan.demo.jpeg-9.2.0.lib" "pvt.cppan.demo.madler.zlib-1.2.11.lib" "pvt.cppan.demo.mgk25.jbig.ar-2.1.0.lib" "pvt.cppan.demo.mgk25.jbig.jbig-2.1.0.lib" "pvt.cppan.demo.openjpeg.openjp2-2.1.2.lib" "pvt.cppan.demo.png-1.6.28.lib" "pvt.cppan.demo.tiff-4.0.7.lib" "pvt.cppan.demo.webp-0.6.0.lib" "pvt.cppan.demo.xz_utils.lzma-5.2.2.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\opencv实践\exsic520  DNN模块系列：基于EAST文本检测+Tesseract4.0 中文识别\x64\Release\exsic520.pdb" /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\opencv实践\exsic520  DNN模块系列：基于EAST文本检测+Tesseract4.0 中文识别\x64\Release\exsic520.lib" /MACHINE:X64 x64\Release\main.obj
+         x64\Release\putText.obj
+         正在生成代码
+         1 of 598 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         已完成代码的生成
+         exsic520.vcxproj -> D:\opencv实践\exsic520  DNN模块系列：基于EAST文本检测+Tesseract4.0 中文识别\x64\Release\exsic520.exe
+     1>已完成生成项目“D:\opencv实践\exsic520  DNN模块系列：基于EAST文本检测+Tesseract4.0 中文识别\exsic520\exsic520.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:06.43
