@@ -4,3 +4,5 @@
 
 Dependent environment: vs2015 + Tesseract4.0 + opencv3.4.2 and above
 The project completed text detection and Chinese character detection based on Tesseract4.0
+
+![效果图](https://github.com/XuHao9166/chineseDectectAndRecognize-/blob/master/1.bmp)
